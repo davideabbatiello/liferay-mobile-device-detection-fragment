@@ -1,0 +1,4 @@
+Bundle-Name: liferay-mobile-device-detection-fragment
+Bundle-SymbolicName: liferay.mobile.device.detection.fragment
+Bundle-Version: 1.0.0
+Fragment-Host: com.liferay.portal.mobile.device.detection.fiftyonedegrees;bundle-version="1.0.9"
